@@ -1,5 +1,6 @@
 # interpark-ticketing
 A ticket-purchasing script in globalinterpark.com on GoogleChrome(originally written for a friend)
+
 for those who have bought tickets this website before
 
 # usage
